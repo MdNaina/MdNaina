@@ -2,7 +2,7 @@
 - 👀 I’m interested in build projects
 - 🌱 I’m currently learning node
 - 💞️ I’m looking to collaborate on node projects
-- 🔗 I have my Portfolio, click ![here](mdnaina047.web.app)
+- 🔗 I have my Portfolio, click [here](mdnaina047.web.app)
 - 📫 How to reach me , contact my email : naina.stnm@gmail.com
 
 <!---
