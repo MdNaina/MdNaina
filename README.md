@@ -2,7 +2,7 @@
 - 👀 I’m interested in solving real-world problems using technology.
 - 🌱 I’m a continuous learner, always exploring and acquiring new skills in technology.
 - 💞️ I’m looking to collaborate on open-source projects.
-- 🔗 Visit my website [here](2kdeveloper.com).
+- 🔗 Visit my website [here](https://2kdeveloper.com).
 - 📫 Contact email: mdnaina@2kdeveloper.com
 
 <!---
